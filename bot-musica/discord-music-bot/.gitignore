@@ -1,0 +1,39 @@
+# Archivos de entorno
+.env
+*.env
+
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Archivos de audio descargados
+*.mp3
+*.mp4
+*.webm
+*.m4a
+*.opus
+
+# Archivos de yt-dlp
+youtube-*
+*.part
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
